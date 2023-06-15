@@ -71,15 +71,15 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #00e131;
+    background-color: #0c1713;
 }
 
 hr.star-primary {
-    border-color: #00649F;
+    border-color: #3f88c5;
 }
 
 hr.star-primary:after {
-    color: #00649F;
+    color: #3f88c5;
     background-color: #fff;
 }
 
@@ -463,7 +463,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #00649F;
+    background-color: #3f88c5;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
